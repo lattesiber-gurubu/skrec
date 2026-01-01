@@ -1,7 +1,7 @@
 // Basit kullanıcı sistemi (localStorage tabanlı)
 // Moderatör hesabı: EmirSeyfOS
 
-const MOD_USERNAME = "EmirSeyfOS";
+const MOD_USERNAME = "EmirSeyfOS, lattesiber";
 
 const usernameInput = document.getElementById("usernameInput");
 const passwordInput = document.getElementById("passwordInput");

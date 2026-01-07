@@ -4,3 +4,6 @@ Skreç, Orbit gibi proje paylaşım platformudur
 eskiden ben copilot ile ProjeKeşfet diye bir platform yaptım ama sonra iptal edildi ve 2026 dolayısıyla skreç adıyla yeniden çıkmıştır.
 # Skreçi kim yaptı?
 skreçi EmirSeyfOS ve lattesiber yaptı
+# Not
+Bu web sitesinin kaynak kodu MIT Lisansı ile lisanslanmıştır.
+Bağlantı verilen Scratch projeleri ilgili sahiplerine aittir.
